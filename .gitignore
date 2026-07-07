@@ -1,0 +1,24 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# Python / tooling caches
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+*.tmp
+
+# Docker and database artifacts
+data/
+pgdata/
+node_modules/
+.env
